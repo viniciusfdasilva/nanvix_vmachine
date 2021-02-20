@@ -1,2 +1,2 @@
 # nanvix_vmachine
-OS Nanvix's Virtual Machines and his documentations
+OS Nanvix's Virtual Machine documentations
